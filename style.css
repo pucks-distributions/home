@@ -6,7 +6,11 @@ body {
     margin: 0;
     padding: 30px;
 
-    background: white;
+    background-image: url("images/IMG_20260718_162636.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: black;
 
     font-family: "Times New Roman", Times, serif;
