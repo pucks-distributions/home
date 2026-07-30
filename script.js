@@ -1,4 +1,4 @@
-const colors = [
+
 const colors = [
     // --- Muted colours (weighted by repetition)
 
