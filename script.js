@@ -1,12 +1,22 @@
 const colors = [
     "#8B0000", // dark red
-    "#1F3A93", // deep blue
-    "#2E7D32", // forest green
-    "#6A1B9A", // purple
+    "#C62828", // strong red
+    "#E65100", // orange
     "#B3541E", // burnt orange
+    "#D4A017", // mustard
+    "#2E7D32", // forest green
+    "#00A651", // bright green
     "#00695C", // teal
-    "#7B1E57", // dark magenta
-    "#5D4037"  // brown
+    "#00ACC1", // turquoise
+    "#1F3A93", // navy
+    "#1565C0", // vivid blue
+    "#3949AB", // indigo
+    "#6A1B9A", // purple
+    "#8E24AA", // violet
+    "#C2185B", // magenta
+    "#7B1E57", // wine
+    "#5D4037", // brown
+    "#424242"  // dark grey
 ];
 
 function randomColor(previousColor = null) {
