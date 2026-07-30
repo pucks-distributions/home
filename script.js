@@ -43,7 +43,7 @@ function colorLetters(element) {
         if (character !== " ") {
             span.style.color = randomColor();
             span.style.transition = "color 0.25s ease";
-            span.style.display = "inline-block";
+            span.style.display = "inline";
 
             span.addEventListener("mouseenter", function () {
                 span.style.color = randomColor();
