@@ -40,7 +40,7 @@ const colors = [
     "#3949AB", // indigo
     "#8E24AA", // violet
     "#C2185B"  // magenta
-];];
+];
 
 function randomColor(previousColor = null) {
     let newColor;
