@@ -70,7 +70,7 @@ function walk(node) {
         return;
     }
 
-    node.childNodes.forEach(walk);
+    Array.from(node.childNodes).forEach(walk);
 }
 
 document.addEventListener("DOMContentLoaded", () => {
